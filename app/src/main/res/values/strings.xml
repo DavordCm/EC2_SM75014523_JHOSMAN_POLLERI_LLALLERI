@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EC2_SM75014523</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="title_activity_listado">ListadoActivity</string>
+</resources>
